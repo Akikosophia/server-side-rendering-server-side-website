@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Fonts being used by the oba */
+@font-face {
+    font-family: AvenirRoman;
+    src: url(../font/Avenir-roman.ttf);
+}
+
+
+@font-face {
+    font-family: AvenirMedium;
+    src: url(../font/Avenir-medium.ttf);
+}
+
+
+@font-face {
+    font-family: AvenirBlack;
+    src: url(../font/Avenir\ -black.ttf);
+}
+
+
+:root{
+    /* ===== Colors ===== */
+    --body-color: #E4E9F7;
+    --sidebar-color: #FFF;
+    --primary-color: #FF0000;
+    --primary-color-light: #F6F5FF;
+    --toggle-color: #DDD;
+    --text-color: #707070;
+
+
+    /* ====== Transition ====== */
+    --tran-03: all 0.2s ease;
+    --tran-03: all 0.3s ease;
+    --tran-04: all 0.3s ease;
+    --tran-05: all 0.3s ease;
+}
+
+main {
+    min-height: 100vh;
+    background-color: var(--body-color);
+    transition: var(--tran-05);
+    font-family: AvenirMedium;
+}
+
+
+::selection{
+    background-color: var(--primary-color);
+    color: #fff;
+}
+
+
+main.dark{
+    --body-color: #18191a;
+    --sidebar-color: #242526;
+    --primary-color: #3a3b3c;
+    --primary-color-light: #3a3b3c;
+    --toggle-color: #fff;
+    --text-color: #ccc;
+}
+
+
+article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
+h2, p {
+    text-align: center;
+    padding: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 40%;
+    object-fit: cover;
+}
