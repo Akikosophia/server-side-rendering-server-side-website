@@ -2,7 +2,7 @@
 
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
-Oba
+Oba overzichtspagina
 
 ## Inhoudsopgave
 
@@ -17,9 +17,11 @@ Oba
 <!-- In de Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
-Opdrachtomschrijving:
-
-
+De opdracht is om een OBA Overzicht pagina te maken met daarin:
+- Familie pagina: Naam, afbeelding van de verschillende profielen.
+- Persoonlijke pagina: Persoonlijke gegevens, abonnementen, geleende boeken (met data), 
+- Zoekresultaten pagina: Boeken, dvd's, cd's, activiteiten.
+- Detail pagina: Details van de boeken, dvd's, cd's, activiteiten.
 
 ## Gebruik
 <!--Bij Gebruik staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
