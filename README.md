@@ -23,6 +23,7 @@ De opdracht is om een OBA Overzicht pagina te maken met daarin:
 - Zoekresultaten pagina: Boeken, dvd's, cd's en activiteiten.
 - Detail pagina: Details van de boeken, dvd's, cd's en activiteiten.
 
+
 ## Gebruik
 <!--Bij Gebruik staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 
