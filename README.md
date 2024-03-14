@@ -6,7 +6,7 @@
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
-  * [Gebruik](#gebruik)
+  * [Screenshots](#Screenshots)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
   * [Bronnen](#bronnen)
@@ -22,11 +22,10 @@ De opdracht is om een OBA Overzicht pagina te maken met daarin:
 - Zoekresultaten pagina: Boeken, dvd's, cd's en activiteiten.
 - Detail pagina: Details van de boeken, dvd's, cd's en activiteiten.
 
-## Voorbeelden pagina's
+## Screenshots van de pagina's
 <img width="300" alt="Scherm­afbeelding 2024-03-14 om 15 31 49" src="https://github.com/Akikosophia/server-side-rendering-server-side-website/assets/144008863/d2270565-68d3-4c0f-a18a-b799449ea40e">
 <img width="300" alt="Scherm­afbeelding 2024-03-14 om 15 32 16" src="https://github.com/Akikosophia/server-side-rendering-server-side-website/assets/144008863/38abef6f-0a8c-45f7-aa8a-4c02777b4905">
 <img width="300" alt="Scherm­afbeelding 2024-03-14 om 15 31 23" src="https://github.com/Akikosophia/server-side-rendering-server-side-website/assets/144008863/167afc29-572f-4e65-9239-92e6f8732004">
-
 
 
 ## Gebruik
