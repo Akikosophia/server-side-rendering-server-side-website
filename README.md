@@ -2,11 +2,6 @@
 
 # Oba redesign overzichtspagina
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
-De opdracht is om een OBA Overzicht pagina te maken met daarin:
-- Familie pagina: Naam, afbeelding van de verschillende profielen.
-- Persoonlijke pagina: Persoonlijke gegevens, abonnementen, geleende boeken (met data), geplande activiteiten en favorieten.
-- Zoekresultaten pagina: Boeken, dvd's, cd's en activiteiten.
-- Detail pagina: Details van de boeken, dvd's, cd's en activiteiten.
 
 ## Inhoudsopgave
 
@@ -21,6 +16,11 @@ De opdracht is om een OBA Overzicht pagina te maken met daarin:
 <!-- In de Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
+De opdracht is om een OBA Overzicht pagina te maken met daarin:
+- Familie pagina: Naam, afbeelding van de verschillende profielen.
+- Persoonlijke pagina: Persoonlijke gegevens, abonnementen, geleende boeken (met data), geplande activiteiten en favorieten.
+- Zoekresultaten pagina: Boeken, dvd's, cd's en activiteiten.
+- Detail pagina: Details van de boeken, dvd's, cd's en activiteiten.
 
 ## Voorbeelden pagina's
 <img width="300" alt="Scherm­afbeelding 2024-03-14 om 15 31 49" src="https://github.com/Akikosophia/server-side-rendering-server-side-website/assets/144008863/d2270565-68d3-4c0f-a18a-b799449ea40e">
