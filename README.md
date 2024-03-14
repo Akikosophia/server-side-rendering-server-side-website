@@ -1,7 +1,8 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Oba overzichtspagina
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
+
 
 ## Inhoudsopgave
 
@@ -16,6 +17,12 @@
 <!-- In de Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
+De opdracht is om een OBA Overzicht pagina te maken met daarin:
+- Familie pagina: Naam, afbeelding van de verschillende profielen.
+- Persoonlijke pagina: Persoonlijke gegevens, abonnementen, geleende boeken (met data), geplande activiteiten en favorieten.
+- Zoekresultaten pagina: Boeken, dvd's, cd's en activiteiten.
+- Detail pagina: Details van de boeken, dvd's, cd's en activiteiten.
+
 
 ## Gebruik
 <!--Bij Gebruik staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
