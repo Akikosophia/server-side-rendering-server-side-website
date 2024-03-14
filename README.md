@@ -1,6 +1,6 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Oba overzichtspagina
+# Oba overzichtspagina en redesign
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 
@@ -22,7 +22,6 @@ De opdracht is om een OBA Overzicht pagina te maken met daarin:
 - Persoonlijke pagina: Persoonlijke gegevens, abonnementen, geleende boeken (met data), geplande activiteiten en favorieten.
 - Zoekresultaten pagina: Boeken, dvd's, cd's en activiteiten.
 - Detail pagina: Details van de boeken, dvd's, cd's en activiteiten.
-
 
 ## Gebruik
 <!--Bij Gebruik staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
