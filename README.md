@@ -4,9 +4,8 @@
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 De opdrachtgever van Oba is Mark Vos
 
-Userstory: 
-1, Als OBA lid wil ik de zoekresultaten kunnen filteren of sorteren, zodat ik gericht kan zoeken naar interessante boeken.
-2, Als OBA lid wil ik na het zoeken details van een boek kunnen bekijken, om te beoordelen of ik het boek wil lezen.
+Userstorie 1: Als OBA lid wil ik de zoekresultaten kunnen filteren of sorteren, zodat ik gericht kan zoeken naar interessante boeken.
+Userstorie 2: Als OBA lid wil ik na het zoeken details van een boek kunnen bekijken, om te beoordelen of ik het boek wil lezen.
 
 Ontwerpvraag: 
 Als familiebeheerder willen ze graag overzicht kunnen zien van de rest van de familie leden bijvoorbeeld welke boeken zei hebben gereserveerd, wanneer deze terug moeten worden gebracht, informatie over het abonnement type en ze willen de optie hebben om dit ook aan te kunnen passen. En verder willen ze ook inzicht hebben over de betaalgegevens of eventuele boetes.
