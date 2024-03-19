@@ -144,7 +144,7 @@
 <% items.forEach(item => { %>
 <h2><a href="./detail/<%= item.id %>"><%= item.title %></a></h2>
 <% if (item.afbeelding) { %>
-<img src="https://fdnd-agency.directus.app/assets/<%= item.afbeelding %>" alt=""
+<img src="https://fdnd-agency.directus.app/assets/<%= item.afbeelding %>" alt="items-afbeeldingen"
 <% } %>
 <p class="beschrijving"><%- item.description %></p>
 <% }) %>
